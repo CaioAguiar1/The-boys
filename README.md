@@ -3,7 +3,7 @@
 
 <h2>Sobre:</h2>
 
-<p>Um  Landing Page The Boys, da Amazon Prime Video
+<p>Uma Landing Page The Boys, da Amazon Prime Video
 </p>
 
 ![theboys](https://user-images.githubusercontent.com/88971985/182044995-be74c30c-46c3-4aab-bfab-27d1f3423fc9.png)
